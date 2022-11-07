@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667845830 source:d:\project 1\calu\main.cpp
+	"main.h"
+
+1667845825 d:\project 1\calu\main.h
+	<iostream>
+	<cmath>
+	<inttypes.h>
+
